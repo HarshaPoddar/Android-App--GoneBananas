@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoneBananas", "GoneBananas\GoneBananas.csproj", "{172C82F0-9DD1-40A0-844C-C79906E26FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoneBananasAndroid", "GoneBananasAndroid\GoneBananasAndroid.csproj", "{BEC2DB56-1ABC-4851-97E2-C1B4F3FC491C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172C82F0-9DD1-40A0-844C-C79906E26FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172C82F0-9DD1-40A0-844C-C79906E26FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172C82F0-9DD1-40A0-844C-C79906E26FCE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{172C82F0-9DD1-40A0-844C-C79906E26FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172C82F0-9DD1-40A0-844C-C79906E26FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172C82F0-9DD1-40A0-844C-C79906E26FCE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BEC2DB56-1ABC-4851-97E2-C1B4F3FC491C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC2DB56-1ABC-4851-97E2-C1B4F3FC491C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC2DB56-1ABC-4851-97E2-C1B4F3FC491C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BEC2DB56-1ABC-4851-97E2-C1B4F3FC491C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC2DB56-1ABC-4851-97E2-C1B4F3FC491C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC2DB56-1ABC-4851-97E2-C1B4F3FC491C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
